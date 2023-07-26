@@ -1,0 +1,2 @@
+# StyleBuddyWeb
+StyleBuddy Website data
